@@ -2,6 +2,8 @@
 
 ## Eddie Santiago Rondon Capera
 ## Codigo:20251020108
+## Oscar Santiago Montoya Amaya
+## Codigo:20212020076
 ## Modelos de programacion grupo 020-81
 El patrón **Chain of Responsibility** resulta apropiado para este sistema porque permite procesar las solicitudes universitarias mediante una cadena de responsables, evitando que una única clase tenga que conocer y controlar todos los tipos de solicitudes.
 
